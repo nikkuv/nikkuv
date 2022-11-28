@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saumya Verma.
-- 👀 I’m interested in all the things related to Web and design.
+- 👀 I’m interested in all things related to Web and design.
 - 🌱 I’m currently learning Typescript and Three.js.
-- 💞️ I’m looking to collaborate on projects on immersive development.
+- 💞️ I’m looking to collaborate on web based projects.
 - 📫 Contact me on [LinkedIn](https://in.linkedin.com/in/saumya-verma-15bb311ab) 
 
 <!---
